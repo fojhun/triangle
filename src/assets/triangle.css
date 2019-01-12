@@ -1,0 +1,18 @@
+.line{
+  background: rgba(0,0,0,0.1);
+  padding: 1px;
+  margin: 10px 0;
+
+}
+span.valLine{
+  background: #444;
+  border: none;
+  color: #ddd;
+  margin-left: 10px;
+  vertical-align: middle;
+  padding: 0 5px !important;
+  box-shadow: 0px 0px 0px 1px rgba(255,255,255,0.3);
+  transition: 0.3s background-color;
+  display:inline-block;
+}
+
